@@ -1,0 +1,374 @@
+canonical_identifier: bkk:krp/KR3eg015/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eg015/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 薛氏濕熱論歌訣
+  identifiers:
+    krp: KR3eg015
+  tags:
+    kr-categories: KR3eg
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eg015.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eg015_000-jc.yaml, hash: 'sha256:9eda7b95ea949dec2339214d0350d15ba0593acd6160a05a34f8b74a9a0380b5'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eg015_000-jc.markers.yaml, hash: 'sha256:e8763384896fafae4344363ec9abee4a07d8c35be67e07afaaec12c843afa6ba'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eg015_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 41
+  label: 正文
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg015_jc_000-d3.h1s1
+    span:
+    - body
+    - 41
+    - 211
+  label: 總訣
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg015_jc_000-d4.h1s1
+    span:
+    - body
+    - 211
+    - 707
+  label: 濕熱初起
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg015_jc_000-d5.h1s1
+    span:
+    - body
+    - 707
+    - 828
+  label: 陰濕傷表
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg015_jc_000-d6.h1s1
+    span:
+    - body
+    - 828
+    - 1004
+  label: 陽濕傷表
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg015_jc_000-d7.h1s1
+    span:
+    - body
+    - 1004
+    - 1081
+  label: 濕重於熱
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg015_jc_000-d8.h1s1
+    span:
+    - body
+    - 1081
+    - 1217
+  label: 濕熱參半
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg015_jc_000-d9.h1s1
+    span:
+    - body
+    - 1217
+    - 1375
+  label: 濕熱蒙閉上焦
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg015_jc_000-d10.h1s1
+    span:
+    - body
+    - 1375
+    - 1613
+  label: 濕熱俱重
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg015_jc_000-d11.h1s1
+    span:
+    - body
+    - 1613
+    - 1989
+  label: 濕熱化風為痙
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg015_jc_000-d12.h1s1
+    span:
+    - body
+    - 1989
+    - 2144
+  label: 濕熱化火致厥
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg015_jc_000-d13.h1s1
+    span:
+    - body
+    - 2144
+    - 2286
+  label: 濕熱蘊結昏痙
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg015_jc_000-d14.h1s1
+    span:
+    - body
+    - 2286
+    - 2454
+  label: 濕熱化火充斥表裡三焦
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg015_jc_000-d15.h1s1
+    span:
+    - body
+    - 2454
+    - 2564
+  label: 濕熱阻遏膜原
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg015_jc_000-d16.h1s1
+    span:
+    - body
+    - 2564
+    - 2657
+  label: 濕滯下焦
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg015_jc_000-d17.h1s1
+    span:
+    - body
+    - 2657
+    - 2815
+  label: 濕熱劫津木火犯胃
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg015_jc_000-d18.h1s1
+    span:
+    - body
+    - 2815
+    - 2919
+  label: 濕熱挾痰飲
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg015_jc_000-d19.h1s1
+    span:
+    - body
+    - 2919
+    - 3194
+  label: 濕熱犯上焦肺胃不和
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg015_jc_000-d20.h1s1
+    span:
+    - body
+    - 3194
+    - 3322
+  label: 暑濕入肺
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg015_jc_000-d21.h1s1
+    span:
+    - body
+    - 3322
+    - 3432
+  label: 濕熱暑邪閉腠理
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg015_jc_000-d22.h1s1
+    span:
+    - body
+    - 3432
+    - 3523
+  label: 濕熱傷營風陽上逆
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg015_jc_000-d23.h1s1
+    span:
+    - body
+    - 3523
+    - 3695
+  label: 濕邪傷陽
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg015_jc_000-d24.h1s1
+    span:
+    - body
+    - 3695
+    - 3890
+  label: 濕困脾陽
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg015_jc_000-d25.h1s1
+    span:
+    - body
+    - 3890
+    - 4182
+  label: 濕熱大汗亡衛陽
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg015_jc_000-d26.h1s1
+    span:
+    - body
+    - 4182
+    - 4401
+  label: 熱深厥深下體客寒
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg015_jc_000-d27.h1s1
+    span:
+    - body
+    - 4401
+    - 4547
+  label: 胃津劫奪邪熱內據
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg015_jc_000-d28.h1s1
+    span:
+    - body
+    - 4547
+    - 4688
+  label: 熱邪入營迫血妄行
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg015_jc_000-d29.h1s1
+    span:
+    - body
+    - 4688
+    - 4858
+  label: 邪入厥陰主客交渾
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg015_jc_000-d30.h1s1
+    span:
+    - body
+    - 4858
+    - 4976
+  label: 濕熱中虛升降悖逆
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg015_jc_000-d31.h1s1
+    span:
+    - body
+    - 4976
+    - 5177
+  label: 餘邪內留膽氣不舒
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg015_jc_000-d32.h1s1
+    span:
+    - body
+    - 5177
+    - 5364
+  label: 餘邪蒙閉清陽胃氣不舒
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg015_jc_000-d33.h1s1
+    span:
+    - body
+    - 5364
+    - 5532
+  label: 下後正傷胃氣不輸
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg015_jc_000-d34.h1s1
+    span:
+    - body
+    - 5532
+    - 5798
+  label: 熱入厥陰熱犯少陰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg015_jc_000-d35.h1s1
+    span:
+    - body
+    - 5798
+    - 5944
+  label: 餘邪滯絡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg015_jc_000-d36.h1s1
+    span:
+    - body
+    - 5944
+    - 6032
+  label: 熱入血室
+  type: section
+  level: 1
+hash: sha256:32c2726373d6b0e3d23cb65bc63fef99712311f90929e15157bf6ef1fa670c67
