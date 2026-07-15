@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eg015/v1
 canonical_location: https://kanripo.org/bkk/KR3eg015/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 薛氏濕熱論歌訣
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eg015_000.yaml, hash: 'sha256:9eda7b95ea949dec2339214d0350d15ba0593acd6160a05a34f8b74a9a0380b5'}
+  - {seq: 0, filename: KR3eg015_000.yaml, hash: 'sha256:f95148afa5cc0bb278db051106dc9d653c70109637533a2d5d946f83ee0d341a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eg015_000.markers.yaml, hash: 'sha256:1716d51fe5b3ce8d9b2d52a1cad56f34c0c860168abf2e85be7ef1882a917084'}
+  - {seq: 0, role: markers, filename: assets/KR3eg015_000.markers.yaml, hash: 'sha256:8da1e22f780c7b36fb1ea7841cce5c15c2ccdcb613e2b026ead3cb6f6034ad26'}
 table_of_contents:
 - ref:
     seq: 0
@@ -371,4 +371,7 @@ table_of_contents:
   label: 熱入血室
   type: section
   level: 1
-hash: sha256:f26e2429220716ced780dc3dc68898d0f9bc9655068a6a98eb58cb3b7b54d30b
+hash: sha256:548e725210c091d503c7b4b3541cf44035b04cdc70e65572d1c688223c573c04
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
