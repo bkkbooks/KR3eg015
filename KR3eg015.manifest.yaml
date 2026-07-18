@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eg015_000.yaml, hash: 'sha256:f95148afa5cc0bb278db051106dc9d653c70109637533a2d5d946f83ee0d341a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eg015_000.markers.yaml, hash: 'sha256:8da1e22f780c7b36fb1ea7841cce5c15c2ccdcb613e2b026ead3cb6f6034ad26'}
+  - {seq: 0, role: markers, filename: assets/KR3eg015_000.markers.yaml, hash: 'sha256:788a44d1e61637e45a0d12ad9ac1c558d95facc174bb76a95d7cc8d644b7c13f'}
 table_of_contents:
 - ref:
     seq: 0
@@ -371,7 +371,7 @@ table_of_contents:
   label: 熱入血室
   type: section
   level: 1
-hash: sha256:548e725210c091d503c7b4b3541cf44035b04cdc70e65572d1c688223c573c04
+hash: sha256:5c0c8da5d5d6a47ff6735250fd91afac8f1e4da319b19202584e63698614d5a8
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eg015_000-jc.yaml, hash: 'sha256:9eda7b95ea949dec2339214d0350d15ba0593acd6160a05a34f8b74a9a0380b5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eg015_000-jc.markers.yaml, hash: 'sha256:e8763384896fafae4344363ec9abee4a07d8c35be67e07afaaec12c843afa6ba'}
+  - {seq: 0, role: markers, filename: assets/KR3eg015_000-jc.markers.yaml, hash: 'sha256:898309d85fbbd97cc754b7f796ac6e744e19a80d5ceb7946f0dac612153828fd'}
 table_of_contents:
 - ref:
     seq: 0
@@ -371,4 +371,4 @@ table_of_contents:
   label: 熱入血室
   type: section
   level: 1
-hash: sha256:32c2726373d6b0e3d23cb65bc63fef99712311f90929e15157bf6ef1fa670c67
+hash: sha256:0074185f153805aadc46b754f1aec0a89603051e35bab1cceb0278c59730ffb3

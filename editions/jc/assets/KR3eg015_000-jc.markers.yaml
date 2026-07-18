@@ -86,8 +86,10 @@ markers:
   - {type: punctuation, offset: 229, content: 。, id: KR3eg015_jc_000-bkkpn39}
   - {type: 'tls:seg', offset: 229, content: '', id: KR3eg015_jc_000-d4.p2s3}
   - {type: punctuation, offset: 231, content: (, id: KR3eg015_jc_000-bkkpn40}
+  - {type: voice, offset: 231, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 232, content: ), id: KR3eg015_jc_000-bkkpn41}
   - {type: punctuation, offset: 234, content: (, id: KR3eg015_jc_000-bkkpn42}
+  - {type: voice, offset: 234, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 235, content: ), id: KR3eg015_jc_000-bkkpn43}
   - {type: punctuation, offset: 238, content: ，, id: KR3eg015_jc_000-bkkpn44}
   - {type: 'tls:seg-start', offset: 238, content: '', id: KR3eg015_jc_000-d4.p2s4, seg_type: comm, member_ids: [KR3eg015_jc_000-d4.p2s4, KR3eg015_jc_000-d4.p2s5, KR3eg015_jc_000-d4.p2s6, KR3eg015_jc_000-d4.p2s7, KR3eg015_jc_000-d4.p2s8, KR3eg015_jc_000-d4.p2s9, KR3eg015_jc_000-d4.p2s10, KR3eg015_jc_000-d4.p2s11, KR3eg015_jc_000-d4.p2s12, KR3eg015_jc_000-d4.p2s13, KR3eg015_jc_000-d4.p2s14, KR3eg015_jc_000-d4.p2s15, KR3eg015_jc_000-d4.p2s16]}
@@ -628,6 +630,7 @@ markers:
   - {type: punctuation, offset: 1411, content: ，, id: KR3eg015_jc_000-bkkpn284}
   - {type: 'tls:seg', offset: 1411, content: '', id: KR3eg015_jc_000-d10.p2s10}
   - {type: punctuation, offset: 1415, content: (, id: KR3eg015_jc_000-bkkpn285}
+  - {type: voice, offset: 1415, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 1416, content: ), id: KR3eg015_jc_000-bkkpn286}
   - {type: 'tls:seg', offset: 1416, content: '', id: KR3eg015_jc_000-d10.p2s11}
   - {type: 'tls:seg-start', offset: 1418, content: '', id: KR3eg015_jc_000-d10.p2s12, seg_type: comm, member_ids: [KR3eg015_jc_000-d10.p2s12]}
@@ -2572,4 +2575,4 @@ markers:
   - {type: punctuation, offset: 6032, content: 。, id: KR3eg015_jc_000-bkkpn1163}
   - {type: xml-element, offset: 6032, content: '', id: KR3eg015_jc_000-d36p4_end, name: p, role: close, attrs: {'xml:id': KR3eg015_jc_000-d36p4}}
   back: []
-hash: sha256:e8763384896fafae4344363ec9abee4a07d8c35be67e07afaaec12c843afa6ba
+hash: sha256:898309d85fbbd97cc754b7f796ac6e744e19a80d5ceb7946f0dac612153828fd
